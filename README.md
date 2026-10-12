@@ -1,1 +1,1 @@
-# Metodologia-Computaci-n-2026
+# Metodologia-Computacion-2026
