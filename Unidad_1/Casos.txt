@@ -1,0 +1,19 @@
+Caso A: A10
+Titulo: Sistema de Control de Parqueaderos
+Descripción: Aplicación Java Swing con base de datos SQLite para emisión de 
+tickets e ingreso de vehículos.
+Justificación: Automatización de procesos contables sencillos.
+
+Cadena de búsqueda: 
+parking system AND ("vehicle registration" OR "automation")
+
+Caso B: B27
+Titulo: Control de Tráfico Vehicular usando Aprendizaje Multi-Agente
+Descripción:Red de agentes de IA coordinados en intersecciones urbanas que ajustan la
+duración semafórica minimizando el tiempo total de espera.
+Justificación: Simulación en SUMO con datos de flujo vehicular real de 
+ciudades medianas.
+
+Cadena de búsqueda:
+("traffic signal control" OR "traffic light control") 
+AND ("multi-agent reinforcement learning" OR "multi-agent system" OR MARL)
